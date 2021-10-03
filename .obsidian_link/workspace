@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "672b317cebe3e8f7",
+    "id": "095db79d564904e5",
     "type": "split",
     "children": [
       {
-        "id": "01a5fc13f50e69c1",
+        "id": "415fa454527263d2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "道德经/第四十六章/第四十六章.md",
+            "file": "東坡樂府箋/年譜/甲寅.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db254dc9e590b8d2",
+    "id": "71e4364172324821",
     "type": "split",
     "children": [
       {
-        "id": "851620050b031b71",
+        "id": "f6c96be86ec5ce1d",
         "type": "tabs",
         "children": [
           {
-            "id": "8d67b3bc78a5221f",
+            "id": "9c26281bf70db903",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "aa4e6513cf2a54b7",
+            "id": "6622e0dc33c48ac6",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#東坡樂府箋卷一",
+                "query": "gu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,7 @@
             }
           },
           {
-            "id": "392a9079e2b4feb9",
+            "id": "4e02e364caaf3b40",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -63,20 +63,20 @@
     "width": 300
   },
   "right": {
-    "id": "11c0cd4776589e5e",
+    "id": "1e9fcbbed21a5adb",
     "type": "split",
     "children": [
       {
-        "id": "54eb33a7c8c2585f",
+        "id": "da48f02a0f9fb289",
         "type": "tabs",
         "children": [
           {
-            "id": "a5d73d268424f755",
+            "id": "da5596fd0a23a8df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "道德经/第四十六章/第四十六章.md",
+                "file": "東坡樂府箋/年譜/甲寅.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,17 +88,27 @@
             }
           },
           {
-            "id": "397178507c9e0b31",
+            "id": "bb96bd98a1c69abd",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bbeec487b683d4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
               "state": {
-                "file": "道德经/第四十六章/第四十六章.md"
+                "file": "東坡樂府箋/年譜/甲寅.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "1608bbd968012139",
+            "id": "ebcb7026dc1b0a65",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,24 +117,34 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "6da8de9a8d6a4173",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "東坡樂府箋/年譜/甲寅.md"
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.2997283935547
+    "width": 300
   },
-  "active": "01a5fc13f50e69c1",
+  "active": "415fa454527263d2",
   "lastOpenFiles": [
-    "道德经/第四十六章/第四十六章.md",
-    "道德经/第四十六章/彻悟 道德经 第46章 平衡容量.md",
-    "道德经/第四十六章/Untitled.md",
-    "集/没有任何基础该如何学书法.md",
-    "東坡樂府箋/Untitled.md",
-    "東坡樂府箋/瑞鷓鴣　城頭月落尚啼鳥.md",
-    "東坡樂府箋/箋/雙鳧.md",
-    "東坡樂府箋/箋/黄帽.md",
-    "東坡樂府箋/箋/五馬.md",
-    "東坡樂府箋/箋/襄王.md"
+    "東坡樂府箋/年譜/甲寅.md",
+    "東坡樂府箋/年譜/壬子.md",
+    "東坡樂府箋/年譜/癸丑.md",
+    "東坡樂府箋/年譜/癸丑 1.md",
+    "東坡樂府箋/臨江仙　四大從來都遍滿.md",
+    "東坡樂府箋/箋/層巔二句.md",
+    "東坡樂府箋/箋/玉川.md",
+    "東坡樂府箋/箋/淪漪.md",
+    "東坡樂府箋/箋/四大.md",
+    "東坡樂府箋/層巔二句.md"
   ]
 }
