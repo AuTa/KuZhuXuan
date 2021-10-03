@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "672b317cebe3e8f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "01a5fc13f50e69c1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "道德经/第四十六章/第四十六章.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db254dc9e590b8d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "851620050b031b71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d67b3bc78a5221f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa4e6513cf2a54b7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#東坡樂府箋卷一",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "392a9079e2b4feb9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "11c0cd4776589e5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "54eb33a7c8c2585f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d73d268424f755",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "道德经/第四十六章/第四十六章.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "397178507c9e0b31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "道德经/第四十六章/第四十六章.md"
+              }
+            }
+          },
+          {
+            "id": "1608bbd968012139",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228.2997283935547
+  },
+  "active": "01a5fc13f50e69c1",
+  "lastOpenFiles": [
+    "道德经/第四十六章/第四十六章.md",
+    "道德经/第四十六章/彻悟 道德经 第46章 平衡容量.md",
+    "道德经/第四十六章/Untitled.md",
+    "集/没有任何基础该如何学书法.md",
+    "東坡樂府箋/Untitled.md",
+    "東坡樂府箋/瑞鷓鴣　城頭月落尚啼鳥.md",
+    "東坡樂府箋/箋/雙鳧.md",
+    "東坡樂府箋/箋/黄帽.md",
+    "東坡樂府箋/箋/五馬.md",
+    "東坡樂府箋/箋/襄王.md"
+  ]
+}
