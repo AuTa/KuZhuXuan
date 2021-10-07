@@ -1,0 +1,39 @@
+{
+  "settings": {
+    "flashcardTags": [
+      "#flashcards",
+      "#東坡樂府箋"
+    ],
+    "convertFoldersToDecks": true,
+    "cardCommentOnSameLine": false,
+    "burySiblingCards": false,
+    "showContextInCards": true,
+    "flashcardHeightPercentage": 80,
+    "flashcardWidthPercentage": 40,
+    "showFileNameInFileLink": false,
+    "randomizeCardOrder": true,
+    "convertHighlightsToClozes": false,
+    "convertBoldTextToClozes": false,
+    "singlelineCardSeparator": "::",
+    "singlelineReversedCardSeparator": ":::",
+    "multilineCardSeparator": "?",
+    "multilineReversedCardSeparator": "??",
+    "tagsToReview": [
+      "#review",
+      "#東坡樂府箋"
+    ],
+    "noteFoldersToIgnore": [],
+    "openRandomNote": true,
+    "autoNextNote": false,
+    "disableFileMenuReviewOptions": false,
+    "maxNDaysNotesReviewQueue": 365,
+    "baseEase": 250,
+    "lapsesIntervalChange": 0.5,
+    "easyBonus": 1.3,
+    "maximumInterval": 36525,
+    "maxLinkFactor": 1,
+    "showDebugMessages": false
+  },
+  "buryDate": "2021-10-04",
+  "buryList": []
+}

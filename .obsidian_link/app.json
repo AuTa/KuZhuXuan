@@ -2,5 +2,10 @@
   "fileSortOrder": "byCreatedTimeReverse",
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./附件",
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview"
 }

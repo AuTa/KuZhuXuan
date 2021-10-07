@@ -4,15 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "415fa454527263d2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "東坡樂府箋/年譜/甲寅.md",
-            "mode": "source"
+        "id": "91c42c0880e980ab",
+        "type": "split",
+        "children": [
+          {
+            "id": "415fa454527263d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "李清照集笺注/卷一　词/点绛唇/点绛唇.md",
+                "mode": "source"
+              }
+            },
+            "group": "c6d031a1442891b0"
+          },
+          {
+            "id": "4712e524dcb82fdc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "李清照集笺注/卷一　词/点绛唇/点绛唇.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "c6d031a1442891b0"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -76,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "東坡樂府箋/年譜/甲寅.md",
+                "file": "李清照集笺注/卷一　词/点绛唇/点绛唇.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,9 +145,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "東坡樂府箋/年譜/甲寅.md",
+                "file": "李清照集笺注/卷一　词/点绛唇/点绛唇.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -124,27 +168,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "東坡樂府箋/年譜/甲寅.md"
+                "file": "李清照集笺注/卷一　词/点绛唇/点绛唇.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "415fa454527263d2",
   "lastOpenFiles": [
-    "東坡樂府箋/年譜/甲寅.md",
-    "東坡樂府箋/年譜/壬子.md",
-    "東坡樂府箋/年譜/癸丑.md",
-    "東坡樂府箋/年譜/癸丑 1.md",
+    "李清照集笺注/卷一　词/点绛唇/点绛唇.md",
     "東坡樂府箋/臨江仙　四大從來都遍滿.md",
-    "東坡樂府箋/箋/層巔二句.md",
-    "東坡樂府箋/箋/玉川.md",
-    "東坡樂府箋/箋/淪漪.md",
-    "東坡樂府箋/箋/四大.md",
-    "東坡樂府箋/層巔二句.md"
+    "李清照集笺注/卷一　词/点绛唇/汇评.md",
+    "李清照集笺注/卷一　词/点绛唇.md",
+    "李清照集笺注/笺注/青梅句.md",
+    "李清照集笺注/笺注/袜刬.md",
+    "李清照集笺注/笺注/慵整.md",
+    "李清照集笺注/笺注/蹴.md",
+    "模/東坡樂府箋.md",
+    "李清照集笺注/笺注/未命名.md"
   ]
 }
