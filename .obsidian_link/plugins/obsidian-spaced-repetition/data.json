@@ -20,7 +20,8 @@
     "multilineReversedCardSeparator": "??",
     "tagsToReview": [
       "#review",
-      "#東坡樂府箋"
+      "#東坡樂府箋",
+      "#李清照集笺注"
     ],
     "noteFoldersToIgnore": [],
     "openRandomNote": true,
@@ -34,6 +35,6 @@
     "maxLinkFactor": 1,
     "showDebugMessages": false
   },
-  "buryDate": "2021-10-04",
+  "buryDate": "2021-10-07",
   "buryList": []
 }
